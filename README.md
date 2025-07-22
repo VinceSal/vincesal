@@ -1,7 +1,7 @@
 <h1>Hi, I'm Vincenzo and welcome to my Github✌🏻</h1>
   <h3>24, Computer Science and Apple Developer student from Italy🇮🇹</h3>
   <h3>I graduated in 2025 from the Apple Academy at Federico II University and in this period I published 2 apps on the App Store</h3>
-  <h3>One of the 2 apps (Golsplan) occupied the top 200 sports apps in Italy the week after its release, reaching position 92.Download Golsplan from the AppStore: https://apps.apple.com/it/app/golsplan/id6744357844 </h3>
+  <h3>Golsplan occupied the top 200 sports apps in Italy the week after its release, reaching position 92.Download Golsplan from the AppStore: https://apps.apple.com/it/app/golsplan/id6744357844 </h3>
   <h3>Download VeeTA from the AppStore: https://apps.apple.com/it/app/veeta-tree-meter/id6746959379 </h3>
   <h3>Here you will find all my personal projects!</h3>
 
