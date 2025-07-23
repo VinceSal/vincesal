@@ -1,45 +1,68 @@
-<h1>Hi, I'm Vincenzo and welcome to my Github✌🏻</h1>
-  <h3>24, Computer Science and Apple Developer student from Italy🇮🇹</h3>
-  <h3>I graduated in 2025 from the Apple Academy at Federico II University and in this period I published 2 apps on the App Store</h3>
-  <h3>Golsplan occupied the top 200 sports apps in Italy the week after its release, reaching position 92.Download Golsplan from the AppStore: https://apps.apple.com/it/app/golsplan/id6744357844 </h3>
-  <h3>Download VeeTA from the AppStore: https://apps.apple.com/it/app/veeta-tree-meter/id6746959379 </h3>
-  <h3>Here you will find all my personal projects!</h3>
+<h1 align="center">Hi, I'm Vincenzo 👋🏻 Welcome to my GitHub!</h1>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=vincesal&label=Profile%20views&color=0e75b6&style=flat" alt="vincesal" />
-  </p>
+<h3 align="center">💻 24 y.o. Computer Science & Apple Developer Student from Italy 🇮🇹</h3>
 
-  <h3>Languages and Tools💻:</h3>
-  <p class="tools">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-    </a>
-  </p>
+---
+
+### 🎓 Education & Background
+
+- 🎓 Graduated in 2025 from the **Apple Developer Academy** @ *University of Naples Federico II*
+- 📱 iOS Developer passionate about mobile apps and solving real-world problems with technology
+- 🎯 In September 2025 I will graduate in Computer Science and enroll in the master's degree program in Machine Learning @ *University of Naples Parthenope*
+
+---
+
+### 🚀 My Published Apps on the App Store
+
+- **[Golsplan](https://apps.apple.com/it/app/golsplan/id6744357844)**  
+  🏆 Reached **#92** in the Top 200 Sports apps in Italy one week after launch
+
+- **[VeeTA - Tree Meter](https://apps.apple.com/it/app/veeta-tree-meter/id6746959379)**  
+  🌳 Innovative app for tree management and protection created in collaboration with the WWF Astroni crater oasis
+
+---
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</p>
+
+---
+### 📌 About Me
+
+- 👨🏻‍💻 I'm passionate about building intuitive mobile apps and experimenting with emerging technologies like **VR** and **AI**
+- 📚 Currently exploring **virtual environments** and **human-agent interaction** for my research and projects
+
+---
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vincesal&show_icons=true&theme=tokyonight" alt="vincesal GitHub Stats"/>
+</p>
+
+---
+### 🔗 Let's Connect!
+
+- 💼 [LinkedIn](www.linkedin.com/in/vincesal)
+- 🌐 [**Portfolio**](https://vincenzosalzano.my.canva.site/)
+- 📷 [Instagram](https://www.instagram.com/vincesal_)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vincesal&label=Profile%20views&color=0e75b6&style=flat" alt="vincesal" />
+</p>
+
+
+
+
+
+
 
