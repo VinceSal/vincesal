@@ -41,14 +41,6 @@
 
 - 👨🏻‍💻 I'm passionate about building intuitive mobile apps and experimenting with emerging technologies like **VR** and **AI**
 - 📚 Currently exploring **virtual environments** and **human-agent interaction** for my research and projects
-
----
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincesal&show_icons=true&theme=tokyonight" alt="vincesal GitHub Stats"/>
-</p>
-
 ---
 ### 🔗 Let's Connect!
 
