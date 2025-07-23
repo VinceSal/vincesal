@@ -52,7 +52,7 @@
 ---
 ### 🔗 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/vincesal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vincesal)
 - 🌐 [**Portfolio**](https://vincenzosalzano.my.canva.site/)
 - 📷 [Instagram](https://www.instagram.com/vincesal_)
 
