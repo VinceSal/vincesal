@@ -20,6 +20,9 @@
 - **[VeeTA - Tree Meter](https://apps.apple.com/it/app/veeta-tree-meter/id6746959379)**  
   🌳 Innovative app for tree management and protection created in collaboration with the WWF Astroni crater oasis
 
+- **[Mynra](https://apps.apple.com/it/app/mynra/id6749180815)**  
+  🏆 Reached **#85** in the Top 200 Books apps in Italy one week after launch
+
 ---
 ### 🛠️ Languages & Tools
 
