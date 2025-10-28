@@ -6,9 +6,9 @@
 
 ### 🎓 Education & Background
 
-- 🎓 Graduated in 2025 from the **Apple Developer Academy** @ *University of Naples Federico II*
-- 📱 iOS Developer passionate about mobile apps and solving real-world problems with technology
 - 🎓 Graduated in Computer Science and enroll in the master's degree program in Machine Learning @ *University of Naples Parthenope*
+- 🎓 Graduated in 2025 from the **Apple Developer Academy** @ *University of Naples Federico II*
+- 📱 Developer passionate about mobile apps and solving real-world problems with technology
 
 ---
 
