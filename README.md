@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vincenzo 👋🏻 Welcome to my GitHub!</h1>
 
-<h3 align="center">💻 24 y.o. Computer Science & Apple Developer Student from Italy 🇮🇹</h3>
+<h3 align="center">💻 24 y.o. Graduated in Computer Science & Apple Developer Program from Italy 🇮🇹</h3>
 
 ---
 
