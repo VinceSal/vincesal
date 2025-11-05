@@ -51,7 +51,7 @@
 ### 🔗 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vincesal)
-- 🌐 [**Portfolio**](https://vincenzosalzano.my.canva.site/)
+- 🌐 [**Portfolio**](https://vincenzosalzano.netlify.app/)
 - 📷 [Instagram](https://www.instagram.com/vincesal_)
 
 <p align="center">
